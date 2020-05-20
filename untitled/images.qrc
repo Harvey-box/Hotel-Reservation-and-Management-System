@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/user.jpg</file>
+        <file>images/emperor/e_hotel.jpg</file>
+        <file>images/emperor/e_room1.jpg</file>
+        <file>images/emperor/e_room2.jpg</file>
+        <file>images/emperor/e_room3.jpg</file>
+        <file>images/emperor/e_room4.jpg</file>
+        <file>images/emperor/e_room5.jpg</file>
+        <file>images/lisboa/l_hotel.jpg</file>
+        <file>images/lisboa/l_room1.jpg</file>
+        <file>images/lisboa/l_room2.jpg</file>
+        <file>images/lisboa/l_room3.jpg</file>
+        <file>images/lisboa/l_room4.JPG</file>
+        <file>images/lisboa/l_room5.jpg</file>
+        <file>images/lisboa/l_room6.jpg</file>
+        <file>images/parisian/p_room1.jpg</file>
+        <file>images/parisian/p_room2.jpg</file>
+        <file>images/parisian/p_room3.jpg</file>
+        <file>images/parisian/p_room4.jpg</file>
+        <file>images/parisian/photel.jpg</file>
+        <file>images/venetian/v_hotel.jpg</file>
+        <file>images/venetian/v_room1.jpg</file>
+        <file>images/venetian/v_room2.jpg</file>
+        <file>images/venetian/v_room3.jpg</file>
+        <file>images/venetian/v_room4.jpg</file>
+        <file>images/venetian/v_room5.jpg</file>
+    </qresource>
+</RCC>
